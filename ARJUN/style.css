@@ -1,0 +1,39 @@
+h1,h2,h3,h4,h5{
+    text-align: center;
+    font-style: italic;
+    color: rgb(40, 5, 23);
+    background-color: wheat;
+    text-decoration: dotted;
+    border: 2px;
+    border-style:dashed  ;
+    border-color: black;
+}
+p{
+    text-align: center;
+    color: red;
+ background-image: url("https://english.mathrubhumi.com/image/contentid/policy:1.5147430:1676431114/image.jpg?$p=0f6e831&f=16x10&w=852&q=0.8");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ padding: 20px;
+}
+ol{
+    list-style-type: circle;
+    color: black;  
+}
+img{
+    width: 2000px;
+    height: 500px;
+}
+table,td,th{
+    border: 3px solid black;
+    text-align: center;
+    width: 70%;
+}
+.head2{
+    background-color: blueviolet;
+    margin: 40px;
+    padding: 20px;
+    border: 2px solid gray;
+    border-radius: 90px;
+}
